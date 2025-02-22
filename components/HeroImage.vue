@@ -1,5 +1,5 @@
 <template>
-  <div class="relative hero-img-container">
+  <div class="relative hero-img-container max-w-[95%] mx-auto mt-[0.5rem]">
     <NuxtImg
       class="mx-auto w-full max-h-[90vh]"
       :src="heroImg"

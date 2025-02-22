@@ -30,8 +30,10 @@
         />
       </button>
     </div>
-    <div class="mx-auto w-[80%] my-16 flex justify-evenly">
-      <div class="border border-black rounded-lg w-[30%] py-4 px-4">
+    <div class="mx-auto w-[80%] my-16 flex justify-evenly p-[3rem]">
+      <div
+        class="rounded-xl w-[30%] py-4 px-4 bg-white shadow-[1px_2px_3px_4px_#afafafb0]"
+      >
         <NuxtImg
           class="rounded-lg mb-4"
           src="/mumbai-cover-image.png"
@@ -49,7 +51,9 @@
           >
         </div>
       </div>
-      <div class="border border-black rounded-lg w-[30%] py-4 px-4">
+      <div
+        class="rounded-xl w-[30%] py-4 px-4 bg-white shadow-[1px_2px_3px_4px_#afafafb0]"
+      >
         <NuxtImg
           class="rounded-lg mb-4"
           src="/bengaluru-cover-image.png"

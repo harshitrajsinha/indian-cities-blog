@@ -43,15 +43,13 @@ const placeList = {
     "hero-image": "mumbai-cover-image.png",
     "place-list": [
       {
-        "place-name":
-          "Gateway of India: Mumbai’s Iconic Tribute to History and Architecture",
+        "place-name": "Gateway of India: Tribute to History and Architecture",
         "place-img": "/gateway-of-india-new.png",
         "place-info":
           "The Gateway of India is an arch monument built during the 20th century in Bombay, India. The monument was erected to commemorate the landing of King George V and Queen Mary at Apollo Bunder on their visit to India in 1911. Built in Indo-Saracenic style, the foundation stone for the Gateway of India was laid on 31 March 1911. The structure is an arch made of basalt, 26 metres (85 feet) high.The Gateway of India is located on the waterfront at Apollo Bunder area at the end of Chhatrapati Shivaji Marg in South Mumbai and overlooks the Arabian Sea. The monument has also been referred to as the Taj Mahal of Mumbai, and is the city’s top tourist attraction.",
       },
       {
-        "place-name":
-          "Elephanta Caves: Timeless Rock Carvings on India’s Sacred Island",
+        "place-name": "Elephanta Caves: Timeless Rock Carvings",
         "place-img": "/elephanta-caves.png",
         "place-info":
           "An hour-long ferry ride from the Gateway of India to the Elephanta Island in the Mumbai Harbour, will open you up to a hidden world of rock-cut caves robust in their carvings and boasting a legion of Shaivite sculptures. Welcome to Elephanta Caves, tucked away in a desolate island locally called Gharapuri (city of caves) 10 kilometres east of the Gateway of India. Further studies, numismatic evidence, architectural style and inscriptions have traced the cave temples to King Krishnaraja from the Kalachuri dynasty around mid-6th Century, and the Buddhist Stupas to the Hinayana Buddhists who had settled in the island around 2nd Century BCE, much before the advent of the Brahmans to Elephanta.",

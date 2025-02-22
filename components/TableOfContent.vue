@@ -1,6 +1,6 @@
 <template>
   <div
-    class="toc w-[30%] my-8 sticky px-4 top-24 self-start border border-gray-300 rounded-lg"
+    class="toc w-[30%] my-8 sticky px-4 top-24 self-start border border-gray-300 rounded-xl bg-white pt-[0.5rem]"
   >
     <table class="w-full">
       <thead class="border-b border-gray-300 text-xl">
