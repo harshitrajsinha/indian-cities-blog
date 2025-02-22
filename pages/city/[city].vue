@@ -66,4 +66,7 @@ const placeList = {
 
 const route = useRoute();
 const cityName = route.params.city;
+if (!(cityName === "bengaluru" || cityName === "mumbai")) {
+  showError({ statusCode: 404, statusMessage: "City not found" });
+}
 </script>

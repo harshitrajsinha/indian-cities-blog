@@ -1,75 +1,15 @@
-# Nuxt Minimal Starter
+# Process
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+✅ Build a sample UI using Nuxt and Vue serving static content.
 
-## Setup
+- Used Nuxt Pages to create dynamic routes
+- NuxtLink to route to different resources without page load
+- NuxtImg for image optimisation (reduced image file size significantly).
+- Defualt Nuxt Error page to show error for unrecognized pages.
+- Used Tailwind to apply styling throughout the pages.
 
-Make sure to install dependencies:
+⌛ Create a Supabase database to store data
 
-```bash
-# npm
-npm install
+⌛ Use Prisma ORM for performing database operations between Supabase and application
 
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+⌛ Use tRPC to connect backend and frontend
