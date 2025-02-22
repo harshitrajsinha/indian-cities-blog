@@ -1,3 +1,6 @@
+# Deployment
+Netlify - [Visit Site](https://monumental-youtiao-d8b56d.netlify.app/)
+
 # Process
 
 ✅ Build a sample UI using Nuxt and Vue serving static content.
